@@ -1,0 +1,9 @@
+[project]
+name = "wxo-tutorial"
+version = "0.1.0"
+description = "A tutorial on IBM watsonx Orchestrate ADK (Agent Development Kit) Developer Edition (DE)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ibm-watsonx-orchestrate>=1.10.2",
+]
