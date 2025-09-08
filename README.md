@@ -64,7 +64,7 @@ Official documentation suggests that you can do this **using watsonx Orchestrate
 5. Also copy the "Service Instance URL" from the same page.
 6. Create a `.env` file in your `wxo-tutorial` folder with the following content:
 
-```
+```python
 WO_DEVELOPER_EDITION_SOURCE=orchestrate
 WO_INSTANCE=<your service instance URL>  # as copied above
 WO_API_KEY=<your API key>  # as copied above
@@ -80,7 +80,7 @@ The following alternative works smoothly, **using your watsonx.ai service instan
 4. Copy the generated entitlement key
 5. Create a `.env` file in your `wxo-tutorial` folder with the following content:
 
-```
+```python
 WO_DEVELOPER_EDITION_SOURCE=myibm
 WO_ENTITLEMENT_KEY=<your entitlement key for ibm container registry>  # as copied above
 WATSONX_APIKEY=<your api key for watsonx.ai>  # this is your apikey for watsonx.ai
@@ -99,7 +99,7 @@ This command will pull the required Docker images and start the watsonx Orchestr
 
 At the completion of this command you should see output like this:
 
-```
+```bash
 [INFO] - Migration ran successfully.
 [INFO] - Waiting for orchestrate server to be fully initialized and ready...
 [INFO] - Orchestrate services initialized successfully
@@ -114,7 +114,6 @@ And the following should now be accessible in your browser:
 - Open API documentation at [http://localhost:4321/docs](http://localhost:4321/docs)
 - API Base URL at [http://localhost:4321/api/v1](http://localhost:4321/api/v1)
 
-
 **Install orchestrate copilot server**:
 
 ```bash
@@ -123,7 +122,7 @@ orchestrate copilot start -e .env
 
 You should see output like this:
 
-```
+```bash
 [INFO] - Copilot Service started successfully.
 [INFO] - Waiting for Copilot component to be initialized...
 [INFO] - Copilot service successfully started
@@ -131,11 +130,22 @@ You should see output like this:
 
 ---
 > 📌  Now that the images are downloaded, you should set `WO_DEVELOPER_EDITION_SKIP_LOGIN` environment variable to `true` to skip IBM Container Registry login next time you start the server.
-
-
+>
 > 👉 As the output above suggests, you should run `orchestrate env activate local` to activate local environment. The main purpose of the Developer Edition is to run our and test our agents locally. Activating the local environment will set the necessary environment variables to point to your local instance of watsonx Orchestrate for all subsequent CLI commands.
-
-
-> ⚠️ After activating the local environment, you will again have to run: `orchestrate server start -e .env` for database containers to start.
 ---
 
+**Stopping watsonx Orchestrate components**:
+
+Use the `orchestrate <component> stop` command to stop the developer edition components.
+
+```bash
+orchestrate server stop  # <== Stops the local orchestrate server containers
+```
+
+```bash
+orchestrate copilot stop  # <== Stops the orchestrate copilot server containers
+```
+
+## Tutorials
+
+- [Hello World](./tutorials/01-hello-world/README.md)
