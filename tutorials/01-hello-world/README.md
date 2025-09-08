@@ -1,8 +1,8 @@
 # Hello World
 
-The following steps guide you to make you agent available on Agent builder.
+The following steps guide you thru this example.
 
-1. In your directory, create a folder with the name hello-world.
+1. In your directory, create a folder with the name `hello-world`.
 2. Open a text editor, such as Visual Studio Code.
 3. To create the agent, copy the following code:
 
