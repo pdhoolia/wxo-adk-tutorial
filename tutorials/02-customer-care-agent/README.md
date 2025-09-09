@@ -1,6 +1,7 @@
 # Customer Care Example
 
-This example was written to simulate a customer care agent for hospital. It is capable of querying remote apis with dummy data. Key concepts demonstrated here include how the agent tools integrate with enterprise APIs using authentication credentials.
+In this example, we will simulate a customer care agent for a hospital. It is capable of querying remote APIs with dummy data. Key concepts demonstrated here include:
+- integration with enterprise APIs using authentication credentials.
 
 The following steps guide you thru this example.
 

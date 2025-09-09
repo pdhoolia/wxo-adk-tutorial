@@ -1,0 +1,136 @@
+# High Deductible Health Plan (HDHP) Policy Document
+
+## Policy Number: HDHP-2025-001
+## Effective Date: January 1, 2025
+
+## 1. Plan Overview
+
+The High Deductible Health Plan (HDHP) is a cost-effective healthcare coverage option designed to provide comprehensive medical benefits with lower monthly premiums. This plan is compatible with Health Savings Accounts (HSA), allowing members to save pre-tax dollars for qualified medical expenses.
+
+## 2. Coverage Summary
+
+### 2.1 Annual Deductibles
+- **In-Network Individual**: $2,000
+- **In-Network Family**: $4,000
+- **Out-of-Network Individual**: $4,000
+- **Out-of-Network Family**: $8,000
+
+### 2.2 Out-of-Pocket Maximum
+- **In-Network Individual**: $4,000
+- **In-Network Family**: $8,000
+- **Out-of-Network Individual**: $8,000
+- **Out-of-Network Family**: $16,000
+
+## 3. Covered Services
+
+### 3.1 Preventive Care
+- **In-Network**: 100% covered (no deductible)
+- **Out-of-Network**: 60% after deductible
+- Includes annual wellness exams, immunizations, and routine screenings
+
+### 3.2 Primary Care Services
+- **In-Network**: 80% after deductible
+- **Out-of-Network**: 60% after deductible
+- Covers visits to General Medicine providers
+
+### 3.3 Specialist Care
+- **In-Network**: 80% after deductible
+- **Out-of-Network**: 60% after deductible
+- Includes:
+  - Cardiology consultations
+  - Pediatric services
+  - Orthopedic treatment
+  - ENT (Ear, Nose and Throat) services
+
+### 3.4 Emergency Services
+- **Emergency Room**: 80% after deductible (both in and out-of-network)
+- **Urgent Care**: 80% after deductible (in-network)
+- **Ambulance Services**: 80% after deductible
+
+### 3.5 Hospital Services
+- **Inpatient Care**: 80% after deductible (in-network), 60% after deductible (out-of-network)
+- **Outpatient Surgery**: 80% after deductible (in-network), 60% after deductible (out-of-network)
+- **Multi-specialty facilities**: Covered at applicable rates
+
+### 3.6 Diagnostic Services
+- **Laboratory Tests**: 80% after deductible (in-network)
+- **X-ray and Imaging**: 80% after deductible (in-network)
+- **Advanced Imaging (MRI/CT)**: 80% after deductible with prior authorization
+
+### 3.7 Prescription Drugs
+- **Generic**: $10 copay after deductible
+- **Preferred Brand**: $35 copay after deductible
+- **Non-Preferred Brand**: $70 copay after deductible
+- **Specialty Drugs**: 20% coinsurance after deductible
+
+## 4. Provider Network
+
+### 4.1 In-Network Providers
+Members receive maximum benefits when using in-network providers. Search for providers by:
+- Location (city, state, or zip code)
+- Specialty (General Medicine, Cardiology, Pediatrics, Orthopedics, ENT, Multi-specialty)
+- Provider type (Hospital, Clinic, Individual Practitioner)
+
+### 4.2 Out-of-Network Coverage
+Coverage is available for out-of-network providers at reduced benefit levels. Members are responsible for any charges above the allowed amount.
+
+## 5. Claims Process
+
+### 5.1 Claim Submission
+- In-network providers submit claims directly
+- Out-of-network claims must be submitted within 90 days of service
+- Required documentation includes itemized bills and receipts
+
+### 5.2 Claim Status
+Claims may have the following statuses:
+- **Processed**: Claim has been reviewed and payment determined
+- **Pending**: Claim is under review
+- **Rejected**: Claim denied (reason will be provided)
+
+### 5.3 Appeals Process
+Members have the right to appeal claim decisions within 180 days of denial notification.
+
+## 6. Health Savings Account (HSA) Compatibility
+
+This HDHP is HSA-eligible, allowing members to:
+- Contribute pre-tax dollars (2025 limits: $4,150 individual, $8,300 family)
+- Use funds for qualified medical expenses tax-free
+- Roll over unused funds year to year
+- Invest funds for potential growth
+
+## 7. Exclusions and Limitations
+
+This policy does not cover:
+- Cosmetic procedures (unless medically necessary)
+- Experimental or investigational treatments
+- Services not medically necessary
+- Work-related injuries (covered by Workers' Compensation)
+
+## 8. Pre-Authorization Requirements
+
+The following services require pre-authorization:
+- Inpatient hospital admissions (except emergency)
+- Outpatient surgery
+- Advanced imaging (MRI, CT, PET scans)
+- Specialty medications
+- Durable medical equipment over $500
+
+## 9. Member Responsibilities
+
+Members are responsible for:
+- Meeting annual deductibles before coinsurance applies
+- Obtaining pre-authorization when required
+- Using in-network providers when possible for maximum benefits
+- Paying copayments and coinsurance at time of service
+- Maintaining accurate contact and coverage information
+
+## 10. Contact Information
+
+For questions about coverage, claims, or to find providers:
+- Customer Service: 1-800-XXX-XXXX
+- Online Portal: www.healthplan.example.com
+- Mobile App: Available for iOS and Android
+
+---
+
+*This document provides a summary of benefits. For complete details, please refer to the full Evidence of Coverage document.*

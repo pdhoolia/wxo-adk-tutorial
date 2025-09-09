@@ -1,0 +1,215 @@
+# High Deductible Health Plan Plus (HDHP Plus) Policy Document
+
+## Policy Number: HDHP-PLUS-2025-001
+## Effective Date: January 1, 2025
+
+## 1. Plan Overview
+
+The High Deductible Health Plan Plus (HDHP Plus) offers enhanced coverage compared to the standard HDHP, with lower deductibles and improved cost-sharing while maintaining HSA compatibility. This plan balances affordability with comprehensive healthcare coverage for individuals and families seeking additional financial protection.
+
+## 2. Coverage Summary
+
+### 2.1 Annual Deductibles
+- **In-Network Individual**: $1,500
+- **In-Network Family**: $3,000
+- **Out-of-Network Individual**: $3,000
+- **Out-of-Network Family**: $6,000
+
+### 2.2 Out-of-Pocket Maximum
+- **In-Network Individual**: $3,000
+- **In-Network Family**: $6,000
+- **Out-of-Network Individual**: $6,000
+- **Out-of-Network Family**: $12,000
+
+## 3. Enhanced Covered Services
+
+### 3.1 Preventive Care
+- **In-Network**: 100% covered (no deductible)
+- **Out-of-Network**: 70% after deductible
+- Comprehensive coverage including:
+  - Annual physical examinations
+  - Well-child visits
+  - Immunizations and vaccinations
+  - Cancer screenings
+  - Cardiovascular screenings
+
+### 3.2 Primary Care Services
+- **In-Network**: 85% after deductible
+- **Out-of-Network**: 65% after deductible
+- Enhanced access to General Medicine providers
+- Includes telehealth visits at same coverage level
+
+### 3.3 Specialist Care
+- **In-Network**: 85% after deductible
+- **Out-of-Network**: 65% after deductible
+- Comprehensive specialist network:
+  - Cardiology (including cardiac rehabilitation)
+  - Pediatrics (including developmental assessments)
+  - Orthopedics (including physical therapy)
+  - ENT (Ear, Nose and Throat) services
+  - Mental health and behavioral services
+
+### 3.4 Emergency and Urgent Care
+- **Emergency Room**: 85% after deductible (worldwide coverage)
+- **Urgent Care**: 85% after deductible (in-network), 70% after deductible (out-of-network)
+- **Ambulance Services**: 85% after deductible
+- **Air Ambulance**: 85% after deductible (when medically necessary)
+
+### 3.5 Hospital Services
+- **Inpatient Care**: 85% after deductible (in-network), 65% after deductible (out-of-network)
+- **Outpatient Surgery**: 85% after deductible (in-network), 65% after deductible (out-of-network)
+- **Multi-specialty facilities**: Enhanced coverage at 85% after deductible
+- **Skilled Nursing Facility**: 85% after deductible (up to 60 days per year)
+
+### 3.6 Diagnostic and Laboratory Services
+- **Routine Laboratory Tests**: 85% after deductible (in-network)
+- **X-ray and Basic Imaging**: 85% after deductible (in-network)
+- **Advanced Imaging (MRI/CT/PET)**: 85% after deductible with prior authorization
+- **Genetic Testing**: Covered when medically necessary with prior authorization
+
+### 3.7 Enhanced Prescription Drug Coverage
+- **Generic**: $5 copay after deductible
+- **Preferred Brand**: $25 copay after deductible
+- **Non-Preferred Brand**: $50 copay after deductible
+- **Specialty Drugs**: 15% coinsurance after deductible (max $150 per prescription)
+- **Mail Order**: 2.5 months supply for 2 months copay
+
+### 3.8 Additional Benefits
+- **Vision Care**: Annual eye exam covered at $50 copay
+- **Dental Preventive**: Two cleanings per year at no cost
+- **Hearing Aids**: $1,000 allowance every 3 years
+- **Wellness Programs**: Access to fitness discounts and health coaching
+
+## 4. Enhanced Provider Network
+
+### 4.1 Premium Network Access
+- Access to Centers of Excellence for complex procedures
+- Priority scheduling with specialists
+- Dedicated care coordination services
+- Extended network including:
+  - All major hospital systems
+  - Specialized treatment centers
+  - Comprehensive clinic networks
+  - Telehealth platform access
+
+### 4.2 Provider Search and Selection
+Members can search for providers by:
+- Geographic location (expanded coverage areas)
+- Medical specialty (all specialties covered)
+- Provider ratings and quality scores
+- Language preferences
+- Accessibility features
+
+## 5. Streamlined Claims Process
+
+### 5.1 Automated Claim Processing
+- Electronic submission for faster processing
+- Real-time claim tracking through member portal
+- Average processing time: 7-10 business days
+- Direct deposit for reimbursements
+
+### 5.2 Claim Support Services
+- Dedicated claim advocates
+- Pre-treatment estimates available
+- Assistance with claim appeals
+- Coordination of benefits support
+
+## 6. Health Savings Account (HSA) Plus Features
+
+### 6.1 Enhanced HSA Benefits
+- Employer contribution matching (if applicable)
+- Investment options for account growth
+- HSA debit card for qualified expenses
+- 2025 contribution limits: $4,150 individual, $8,300 family
+- Catch-up contributions: Additional $1,000 for age 55+
+
+### 6.2 HSA-Eligible Expenses
+Expanded list of qualified expenses including:
+- Medical, dental, and vision care
+- Prescription medications
+- Over-the-counter medications
+- Medical equipment and supplies
+- Mental health services
+
+## 7. Care Management Programs
+
+### 7.1 Chronic Condition Management
+- Diabetes care program
+- Cardiovascular health management
+- Asthma and COPD support
+- Personalized care plans
+
+### 7.2 Maternity and Family Planning
+- Prenatal care covered at 100% after deductible
+- Postnatal support programs
+- Fertility treatment coverage (limited)
+- Lactation consultant services
+
+## 8. Travel and Emergency Coverage
+
+### 8.1 Domestic Travel
+- Full coverage throughout the United States
+- Access to urgent care facilities nationwide
+- 24/7 nurse hotline
+
+### 8.2 International Travel
+- Emergency medical coverage worldwide
+- Medical evacuation coverage
+- Assistance with finding providers abroad
+
+## 9. Pre-Authorization Requirements
+
+Prior authorization required for:
+- Non-emergency inpatient admissions
+- Outpatient surgical procedures
+- Advanced imaging studies
+- Specialty medications
+- DME over $300
+- Out-of-network services over $1,000
+
+Fast-track authorization available for urgent situations.
+
+## 10. Quality and Value Programs
+
+### 10.1 Quality Incentives
+- Reduced cost-sharing for high-quality providers
+- Bundled payment options for common procedures
+- Second opinion services at no cost
+
+### 10.2 Wellness Rewards
+- Premium discounts for health assessments
+- Rewards for preventive care completion
+- Fitness tracker integration
+- Smoking cessation program support
+
+## 11. Member Rights and Responsibilities
+
+### 11.1 Member Rights
+- Appeal claim decisions
+- Access to medical records
+- Choose providers within network
+- Privacy and confidentiality protection
+
+### 11.2 Member Responsibilities
+- Provide accurate information
+- Obtain pre-authorization when required
+- Pay applicable cost-sharing
+- Use emergency services appropriately
+
+## 12. Contact and Support
+
+### 12.1 Customer Service
+- Dedicated HDHP Plus Support: 1-800-XXX-PLUS
+- Hours: Monday-Friday 8 AM - 8 PM, Saturday 9 AM - 5 PM
+- 24/7 Nurse Line: 1-800-XXX-NURSE
+
+### 12.2 Digital Resources
+- Member Portal: www.hdhpplus.example.com
+- Mobile App: HDHP Plus Health
+- Online Provider Directory
+- Telehealth Platform Access
+- Cost Estimator Tools
+
+---
+
+*This policy summary is for informational purposes. The complete Evidence of Coverage document contains all terms, conditions, and exclusions.*

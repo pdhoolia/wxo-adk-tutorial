@@ -1,6 +1,11 @@
 # Hello World
 
-The following steps guide you thru this example.
+In this example, we will create a simple "Hello World" agent using the Orchestrate framework. Key concepts demonstrated here are:
+- agent specification
+- tool specification
+- use of orchestrate CLI to import tools and agents, and run the chat UI.
+
+The following steps guide us thru this.
 
 1. In your directory, create a folder with the name `hello-world`.
 2. Open a text editor, such as Visual Studio Code.

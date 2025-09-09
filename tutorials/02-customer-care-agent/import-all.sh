@@ -26,9 +26,7 @@ if [ -d "${SCRIPT_DIR}/tools" ]; then
   done
 fi
 
-# Import all YAML agents from the agents folder
-if [ -d "${SCRIPT_DIR}/agents" ]; then
-  find "${SCRIPT_DIR}/agents" -type f -name "*.yaml" -o -name "*.yml" | while read -r agent; do
-    orchestrate agents import -f "${agent}"
-  done
-fi
+# Import YAML agents from the agents folder. Since there is a dependency on service_now_agent, import it first.
+for agent in service_now_agent.yaml customer_care_agent.yaml; do
+  orchestrate agents import -f ${SCRIPT_DIR}/agents/${agent}
+done
