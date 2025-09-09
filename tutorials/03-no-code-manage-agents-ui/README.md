@@ -1,6 +1,6 @@
 # No-Code: Manage Agents UI
 
-In this example we will create a simple agent using the tools and agents already available from previous examples. Unlike previous examples, we will not be writing any code. Instead, we will use the Orchestrate Chat UI to create and manage our agent. Key concepts demonstrated here are:
+In this tutorial we will create a simple agent using the tools and agents already available from previous examples. Unlike previous examples, we will not be writing any code. Instead, we will use the Orchestrate Chat UI to create and manage our agent. Key concepts demonstrated here are:
 - Agent Builder UI
 - Knowledge sources
 - Ease of configuration (e.g., adding multi-lingual support)

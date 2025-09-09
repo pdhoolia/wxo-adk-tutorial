@@ -1,6 +1,6 @@
 # Hello World
 
-In this example, we will create a simple "Hello World" agent using the Orchestrate framework. Key concepts demonstrated here are:
+In this tutorial, we will create a simple "Hello World" agent using the Orchestrate framework. Key concepts demonstrated here are:
 - agent specification
 - tool specification
 - use of orchestrate CLI to import tools and agents, and run the chat UI.

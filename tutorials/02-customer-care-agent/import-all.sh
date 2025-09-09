@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 set -x
 
-orchestrate env activate local
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 # Import all Python tools recursively from the tools folder
