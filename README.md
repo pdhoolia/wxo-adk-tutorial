@@ -155,3 +155,4 @@ orchestrate copilot stop  # <== Stops the orchestrate copilot server containers
 - MCP Toolkit: Use MCP tools from GitHub server to create an agent
    - [No code: On SaaS](./tutorials/05-mcp-toolkit/README.md)
    - [On Developer Edition: with CLI](./tutorials/05-mcp-toolkit/README_local.md)
+- [Observability](./tutorials/06-observability/README.md): Configure your Agent Server for observability with Langfuse.
