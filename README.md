@@ -148,4 +148,10 @@ orchestrate copilot stop  # <== Stops the orchestrate copilot server containers
 
 ## Tutorials
 
-- [Hello World](./tutorials/01-hello-world/README.md)
+- [Hello World](./tutorials/01-hello-world/README.md): Understand Agent Specification, Tool Specification, and use of orchestrate CLI.
+- [Customer Support Agent](./tutorials/02-customer-care-agent/README.md): Build an agent and connect it with enterprise API, using authentication credentials.
+- [No Code Experience](./tutorials/03-no-code-manage-agents-ui/README.md): Use Agent Builder UI, knowledge sources, and configure multi-lingual support
+- [Deploy to SaaS Instance](./tutorials/04-deploy-to-saas/README.md): Deploy agents and tools to your watsonx Orchestrate SaaS instance
+- MCP Toolkit: Use MCP tools from GitHub server to create an agent
+   - [No code: On SaaS](./tutorials/05-mcp-toolkit/README.md)
+   - [On Developer Edition: with CLI](./tutorials/05-mcp-toolkit/README_local.md)
